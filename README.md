@@ -68,7 +68,7 @@ An AI-based hybrid intrusion detection system for real-time network anomaly dete
 
 📧 harshkrsharmaa@gmail.com  
 📞 +91 9868963686  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-username) | [Leetcode](https://leetcode.com/your-handle)
+🌐 [LinkedIn] https://www.linkedin.com/in/harsh-kr-sharma-4961182a8/ | [GitHub] https://github.com/harshkrsharma | [Leetcode] https://leetcode.com/u/harshkrsharmaa/
 
 ---
 
