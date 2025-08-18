@@ -81,11 +81,26 @@
 - ⌛ "Coding time? More like Googling time!"
 
 ---
-📜 Certifications
-<a href="https://drive.google.com/drive/folders/1WIwIBl5_DFWfJNAIQfWmig3-VqPk6zUU?usp=sharing" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" width="40" height="40"/></a>
-Python Essential
-Ethical Hacker
-Data Analyst
-Google – Generative AI
-Cisco – Cybersecurity Essentials
+<div style="margin:20px 0;">
+  <h2>📜 Certifications</h2>
+  
+  <!-- Google Drive Icon with Link -->
+  <a href="https://drive.google.com/drive/folders/1WIwIBl5_DFWfJNAIQfWmig3-VqPk6zUU?usp=sharing" 
+     target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" 
+         alt="Google Drive" width="40" height="40" style="vertical-align:middle;"/>
+    <span style="font-size:16px; margin-left:8px; vertical-align:middle; font-weight:bold; color:#333;">
+      View Certificates
+    </span>
+  </a>
+  
+  <!-- Certifications List -->
+  <ul style="margin-top:15px; font-size:16px; line-height:1.8;">
+    <li>Python Essential</li>
+    <li>Ethical Hacker</li>
+    <li>Data Analyst</li>
+    <li>Google – Generative AI</li>
+    <li>Cisco – Cybersecurity Essentials</li>
+  </ul>
+</div>
+
