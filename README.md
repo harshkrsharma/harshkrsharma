@@ -83,7 +83,6 @@
 ---
 <div style="margin:20px 0;">
   <h2>📜 Certifications</h2>
-  
   <!-- Google Drive Icon with Link -->
   <a href="https://drive.google.com/drive/folders/1WIwIBl5_DFWfJNAIQfWmig3-VqPk6zUU?usp=sharing" 
      target="_blank" rel="noreferrer" style="text-decoration:none;">
@@ -93,7 +92,7 @@
       View Certificates
     </span>
   </a>
-  
+  ---
   <!-- Certifications List -->
   <ul style="margin-top:15px; font-size:16px; line-height:1.8;">
     <li>Python Essential</li>
