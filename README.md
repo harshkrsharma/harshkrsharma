@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Kumar Sharma</h1>
 <h3 align="center">Founder  <a href="https://barniq.in" target="_blank"> 
- <img src="https://postimg.cc/HVVc0ZSC" alt=" Follow" />
+[![Whats-App-Image-2025-08-18-at-21-43-07.jpg](https://i.postimg.cc/sDJYrb71/Whats-App-Image-2025-08-18-at-21-43-07.jpg)](https://postimg.cc/HVVc0ZSC)
 </a> </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
