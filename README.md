@@ -81,3 +81,11 @@
 - ⌛ "Coding time? More like Googling time!"
 
 ---
+📜 Certifications
+<a href="https://drive.google.com/drive/folders/1WIwIBl5_DFWfJNAIQfWmig3-VqPk6zUU?usp=sharing" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" width="40" height="40"/></a>
+Python Essential
+Ethical Hacker
+Data Analyst
+Google – Generative AI
+Cisco – Cybersecurity Essentials
