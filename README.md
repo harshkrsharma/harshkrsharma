@@ -1,4 +1,5 @@
-![FullStackBanner](https://media.licdn.com/dms/image/v2/D5616AQHO5h_embbnyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246492240?e=1740614400&v=beta&t=un4-H-D0a4mdgct2Dk_LF7VjjLn6UGEBdTtTcZRxPrc)
+![FullStackBanner](https://i.ibb.co/xKcLLSr4/Chat-GPT-Image-Aug-18-2025-11-38-39-PM.png)
+
 
 <img align="right" alt="Coding" width="400" src="https://ibb.co/Z12xqdw0">
 
