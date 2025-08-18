@@ -1,6 +1,3 @@
-
-<img align="right" alt="Coding" width="400" src="https://ibb.co/Z12xqdw0">
-
 <h1 align="center">Hi 👋, I'm Harsh Kumar Sharma</h1>
 <h3 align="center">
   
