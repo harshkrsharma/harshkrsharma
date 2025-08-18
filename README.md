@@ -7,7 +7,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkrsharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-<p align="left"> <a href="https://twitter.com/Harshkrsharm" target="_blank"><img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter Follow" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/Harshkrsharm" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="Twitter Follow" />
+  </a>
+</p>
+
 
 ---
 
