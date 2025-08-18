@@ -103,4 +103,18 @@
     <li>Cisco – Cybersecurity Essentials</li>
   </ul>
 </div>
+<div style="margin:20px 0;">
+  <h2>🏆 Achievements</h2>
+  <ul style="margin-top:15px; font-size:16px; line-height:1.8;">
+    <li>✅ Solved 300+ LeetCode problems</li>
+    <li>💻 Participant, Hackaccino 3.0 (Bennett University)</li>
+    <li>🥇 Winner, SGFI Boxing</li>
+    <li>📄 Published Research Paper: 
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5032116" target="_blank" rel="noreferrer">
+        "AI-Driven Autonomous Accident Prevention and Alertness System"
+      </a>
+    </li>
+  </ul>
+</div>
+
 
