@@ -1,18 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/xKcLLSr4/Chat-GPT-Image-Aug-18-2025-11-38-39-PM.png" alt="Software Developer Banner" width="100%" />
-</p>
-
-<!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Harsh Kumar Sharma</h1>
-<h3 align="center">Software Developer | Problem Solver | Innovator</h3>
-
-<!-- Optional Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshKrSharma/HarshKrSharma/main/coding.gif" alt="Coding" width="250"/>
-</p>
-
-
 
 <img align="right" alt="Coding" width="400" src="https://ibb.co/Z12xqdw0">
 
