@@ -43,6 +43,8 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" /></a>
   <a href="mailto:fidautomation41@gmail.com" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" width="40" /></a>
+  <a href="https://barniq.com" target="_blank">
+  <img align="center" src="https://i.ibb.co/9FFwYq2/barniq-Logo.jpg" alt="BARNIQ" height="40" width="40" /></a>
 </p>
 
 
