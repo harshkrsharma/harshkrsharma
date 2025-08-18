@@ -36,7 +36,7 @@
   <a href="https://twitter.com/Harshkrsharm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
   <a href="https://www.youtube.com/@Barniq.official" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/harshkrsharmaa/" target="_blank">
+ <a href="https://www.linkedin.com/in/harsh-kr-sharma-4961182a8/" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://leetcode.com/u/harshkrsharmaa/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" /></a>
