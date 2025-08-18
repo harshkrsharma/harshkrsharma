@@ -4,10 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Kumar Sharma</h1>
 <h3 align="center">
-  Founder
-  <a href="https://barniq.in" target="_blank">
-    <img src="https://i.postimg.cc/RhhBZkq9/barniqq.png" alt="Founder Logo" width="38" height="38" />
-  </a>
+  
 </h3>
 
 
