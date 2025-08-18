@@ -74,6 +74,26 @@
 
 
 ---
+<div style="margin:20px 0;">
+  <h2>🚀 Projects</h2>
+  <ul style="margin-top:15px; font-size:16px; line-height:1.8;">
+    <li>
+      <strong>Barniq</strong> – Flutter + Spring Boot app for social media, featuring posts, stories, likes, 
+      real-time messaging, and location-aware feeds. 
+      <a href="https://barniq.in" target="_blank" rel="noreferrer">🌐 Website</a>
+    </li>
+    <li>
+      <strong>Gestura</strong> – Non-ML-based real-time Gesture recognition system.
+    </li>
+    <li>
+      <strong>Sizzle</strong> – AI-based recipe and calorie detector using computer vision.
+    </li>
+    <li>
+      <strong>Aegis-AI</strong> – Cybersecurity system with real-time packet monitoring and anomaly detection.
+    </li>
+  </ul>
+</div>
+
 
 ### 💡 Funny Corner:
 - 🐍 "I tried making a snake game in JavaScript. Turns out, I’m just feeding bugs to the snake."
